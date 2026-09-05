@@ -19,7 +19,7 @@ Atualmente estudo **Ciência de Dados** e estou em busca da minha primeira oport
 
 **Linguagens**
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * SQL
 
 **Python / Data Science**
