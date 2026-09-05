@@ -17,76 +17,26 @@ Atualmente estudo **Ciência de Dados** e estou em busca da minha primeira oport
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Linguagens**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* SQL
-
-**Python / Data Science**
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Plotly
-
-**Data & BI**
-
-* Power BI
-* Excel
-* Google Sheets
-* Streamlit
-
-**Machine Learning**
-
-* Regressão Linear
-* Regressão Logística
-* Árvores de Decisão
-* Classificação
-* Clusterização
-* K-Means
-* Avaliação de modelos
-* Matriz de Confusão
-* Precision, Recall e F1-Score
-* ROC e AUC
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📂 Projetos
 
-### 🤖 Previsão de Diabetes
-
-Modelo de **Machine Learning com Árvore de Decisão** para classificação e previsão de diabetes.
-
-**Python • Pandas • Scikit-learn**
-
-🔗 [Ver projeto](#)
-
----
-
-### 🛢️ Dashboard de Reservas de Petróleo
-
-Dashboard interativo para análise de reservas de petróleo, com **KPIs, filtros e visualizações geográficas**.
-
-**Python • Pandas • Streamlit • Plotly**
-
-🔗 [Ver projeto](#)
-
----
-
-### 📊 Análise de Dados
-
-Projetos de **EDA, tratamento e visualização de dados**, buscando identificar padrões e gerar insights para tomada de decisão.
-
-**Python • Pandas • NumPy • Visualização de Dados**
-
-🔗 [Ver projetos](#)
+* 🛢️ Dashboard de Reservas de Petróleo
+* 🤖 Previsão de Diabetes
 
 ## 📚 Atualmente estudando
 
 * Machine Learning
 * Estatística aplicada à Ciência de Dados
 * SQL para análise de dados
-* Power BI
 * Engenharia e tratamento de dados
 * Modelos preditivos
 * Git & GitHub
@@ -97,8 +47,6 @@ Meu objetivo é atuar profissionalmente na área de **Dados**, utilizando análi
 
 ## 📫 Contato
 
-💼 [LinkedIn](#)
+💼 **LinkedIn:** www.linkedin.com/in/matheussilvaespinosa
 
-📧 [seu-email@email.com](mailto:seu-email@email.com)
-
-🐙 [GitHub](#)
+📧 **Email:** matheus.espinosa99@gmail.com
