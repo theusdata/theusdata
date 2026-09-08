@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Matheus!
 
-🎓 Estudante de **Ciência de Dados** | 📊 Dados & Business Intelligence | 🤖 Machine Learning
+🎓 Estudante de **Ciência de Dados** | 📊 Análise de Dados & Business Intelligence | 🤖 Machine Learning
 
 Atualmente estudo **Ciência de Dados** e estou em busca da minha primeira oportunidade profissional na área de **Dados/Tech**. Tenho interesse em transformar dados em informações que possam apoiar decisões e gerar resultados para negócios.
 
