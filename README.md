@@ -1,18 +1,18 @@
 ### 👋 Olá, eu sou Matheus!
 
-🎓 Estudante de **Ciência de Dados** | 📊 Análise de Dados & Business Intelligence | 🤖 Machine Learning
+🎓 Estudante de Ciência de Dados | 📊 Análise de Dados & Business Intelligence | 🤖 Machine Learning
 
-Atualmente estudo **Ciência de Dados** e estou em busca da minha primeira oportunidade profissional na área de **Dados/Tech**. Tenho interesse em transformar dados em informações que possam apoiar decisões e gerar resultados para negócios.
+Atualmente estudo Ciência de Dados e estou em busca da minha primeira oportunidade profissional na área de **Dados/Tech**. Tenho interesse em transformar dados em informações que possam apoiar decisões e gerar resultados para negócios.
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de **Ciência de Dados**
-* 🐍 Desenvolvimento de análises utilizando **Python**
-* 🗄️ Conhecimentos em **SQL**
-* 📊 Criação de dashboards e visualizações com **Power BI**, **Streamlit** e **Plotly**
-* 🤖 Estudos em **Machine Learning**
-* 📈 Conhecimentos em **Estatística** e **Análise Exploratória de Dados (EDA)**
-* 🔄 Interesse em **ETL, análise de dados e Business Intelligence**
+* 🎓 Estudante de Ciência de Dados
+* 🐍 Desenvolvimento de análises utilizando Python
+* 🗄️ Conhecimentos em SQL
+* 📊 Criação de dashboards e visualizações com Power BI, Streamlit e Plotly
+* 🤖 Estudos em Machine Learning
+* 📈 Conhecimentos em Estatística e Análise Exploratória de Dados (EDA)
+* 🔄 Interesse em ETL, análise de dados e Business Intelligence
 * 💼 Buscando minha primeira oportunidade profissional na área de Dados
 
 ## 🛠️ Tecnologias e ferramentas
@@ -43,7 +43,7 @@ Atualmente estudo **Ciência de Dados** e estou em busca da minha primeira oport
 
 ## 🎯 Objetivo
 
-Meu objetivo é atuar profissionalmente na área de **Dados**, utilizando análise, estatística, programação e Machine Learning para resolver problemas reais e transformar dados em soluções de negócio.
+Meu objetivo é atuar profissionalmente na área de Dados, utilizando análise, estatística, programação e Machine Learning para resolver problemas reais e transformar dados em soluções de negócio.
 
 ## 📫 Contato
 
